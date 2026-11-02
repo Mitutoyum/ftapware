@@ -14,7 +14,7 @@ FTAPWare is an external utility for the game Fling Things and People on the Robl
 ### Requirements
 
 * Windows 10/11 (64-bit)
-* Visual Studio 2022 with C++ desktop development tools
+* Visual Studio 2026 with C++ desktop development tools
 * [CMake](https://cmake.org/)
 * [vcpkg](https://github.com/microsoft/vcpkg)
 * [git](https://git-scm.com/)
@@ -39,4 +39,3 @@ cmake --preset default
 ```bash
 cmake --build build/
 ```
-
